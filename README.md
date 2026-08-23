@@ -199,13 +199,13 @@ This project is a simple, self-contained Retrieval-Augmented Generation (RAG) se
 ### 📊 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha-Beta-810&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Anderson-403&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ### 🔥 GitHub Streaks  
 
 <p align="center">
-  <img height="280em" src="https://streak-stats.demolab.com?user=Alpha-Beta-810&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img height="280em" src="https://streak-stats.demolab.com?user=Mr-Anderson-403&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 ---
 
